@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Phenom450
-- 👀 I’m interested in games specially Watch Dogs and Football😁
-- 🌱 I’m currently learning Python
+- I can code in Python and JS.
+- Currently learning Data Security and so on.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.facebook.com/shafin.junayen
+- 📫 How to reach me https://www.facebook.com/shafin.junayen or https://www.instagram.com/not_phenom450/ 
 
 <!---
 Phenom450/Phenom450 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
