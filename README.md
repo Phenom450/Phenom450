@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/facebook.com/shafin.junayen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/shafin.junayen" height="30" width="40" /></a>
-<a href="https://instagram.com/@not_phenom450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@not_phenom450" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/shafin.junayen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafin.junayen" height="30" width="40" /></a>
+<a href="https://instagram.com/not_phenom450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@not_phenom450" height="30" width="40" /></a>
 <a href="https://discord.gg/FdTzyAE8KQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Phenom450#1081" height="30" width="40" /></a>
 </p>
 
